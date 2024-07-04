@@ -65,7 +65,7 @@
     - `email` (String)
     - `phoneNumber` (String)
     - `symptom` (Symptom enum: ARTHRITIS, BACK_PAIN, TISSUE_INJURIES, DYSMENORRHEA, SKIN_INFECTION, SKIN_BURN, EAR_PAIN)
-          **Future scope for symptom - Instead of just (Symptom symptom) we can use (List<Symptom>) because patients can have more than one symptom.**
+          **Future scope for symptom - Instead of just (Symptom symptom) we can use (List of type Symptom) because patients can have more than one symptom.**
 
 ## Enums
 
